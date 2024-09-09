@@ -1,0 +1,12 @@
+.type-room-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.room-box img {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+}
